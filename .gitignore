@@ -1,0 +1,12 @@
+# Репозиторий публичный: файлы публикаций, база Zotero и вложения не коммитим
+*.pdf
+*.djvu
+*.epub
+*.zip
+*.sqlite
+*.sqlite-journal
+zotero.sqlite*
+storage/
+Zotero/
+.DS_Store
+*.swp
